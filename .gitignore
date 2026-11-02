@@ -1,0 +1,7 @@
+﻿# Ignore everything except Assignment Two
+/*
+!/.gitignore
+!/Assignment Two/
+
+# Exclude Word documents in Assignment Two
+/Assignment Two/*.docx
